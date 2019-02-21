@@ -3,7 +3,7 @@
 
 # Ben Reckmeow
 
-![Benreckmeow](/uploads/benreckmeow.png "Benreckmeow")
+![Benreckmeow](benreckmeow.png "Benreckmeow")
 
 Age: Meow Years Old
 Born: Meowington, MEOW
@@ -15,7 +15,7 @@ Company: 3-MEOWS
 
 ### Biography
 
-![chipster](/uploads/chipster.jpeg "chipster")
+![chipster](chipster.jpeg "chipster")
 *Ben Reckmeow in the office. Casual Friday. 2018*
 
 Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow.
